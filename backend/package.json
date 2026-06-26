@@ -1,0 +1,17 @@
+{
+  "name": "pallas-admin-panel-backend",
+  "version": "1.0.0",
+  "description": "Backend MVP para o admin panel de fulfillment",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

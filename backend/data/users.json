@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Marta Sousa",
+    "role": "supervisor",
+    "email": "marta@pallas.shop",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "João Fumo",
+    "role": "finance",
+    "email": "joao@pallas.shop",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Lina Tovela",
+    "role": "purchases",
+    "email": "lina@pallas.shop",
+    "status": "active"
+  }
+]

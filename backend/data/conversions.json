@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "amount_mzn": 18200,
+    "amount_usdt": 0.42,
+    "exchange_rate": 43300,
+    "binance_tx_id": "bnb-1001",
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "order_id": 2,
+    "amount_mzn": 9600,
+    "amount_usdt": 0.22,
+    "exchange_rate": 43636,
+    "binance_tx_id": "bnb-1002",
+    "status": "pending"
+  }
+]

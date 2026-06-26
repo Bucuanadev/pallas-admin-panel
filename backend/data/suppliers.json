@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "CJ Dropshipping",
+    "slug": "cj_dropshipping",
+    "api_supported": true,
+    "default_markup_pct": 18,
+    "products": [
+      { "wc_product_id": 401, "supplier_sku": "CJ-HP-01", "cost_usdt": 11.2, "url": "https://cjdropshipping.com/product/401" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "AliExpress",
+    "slug": "aliexpress",
+    "api_supported": false,
+    "default_markup_pct": 22,
+    "products": [
+      { "wc_product_id": 402, "supplier_sku": "AL-002", "cost_usdt": 9.8, "url": "https://aliexpress.com/item/402" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shein",
+    "slug": "shein",
+    "api_supported": false,
+    "default_markup_pct": 19,
+    "products": [
+      { "wc_product_id": 403, "supplier_sku": "SH-045", "cost_usdt": 8.6, "url": "https://shein.com/product/403" }
+    ]
+  }
+]

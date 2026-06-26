@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "channel": "email",
+    "status": "sent",
+    "sent_at": "2026-06-21T16:10:00.000Z"
+  },
+  {
+    "id": 2,
+    "order_id": 1,
+    "channel": "sms",
+    "status": "queued",
+    "sent_at": "2026-06-21T16:12:00.000Z"
+  }
+]
